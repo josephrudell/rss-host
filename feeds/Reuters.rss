@@ -1,0 +1,226 @@
+Operation
+Convert to Text File
+Text Input Field
+{{ $json.rss.rss }}
+ 
+undefined
+Put Output File in Field
+feed.xml
+The name of the output binary field to put the file in
+Options
+No properties
+Add option
+I wish this node would...
+Output
+{
+  
+"rss": 
+"<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Training News Feed (Scrubbed)</title>
+    <link>https://example.invalid/</link>
+    <description>Scrubbed notional RSS feed generated from ph_news_poc.</description>
+    <lastBuildDate>Thu, 05 Mar 2026 22:13:59 GMT</lastBuildDate>
+
+    <item>
+      <title>China in talks with Atropia to allow safe oil and gas passage through Hormuz, sources say</title>
+      <link>https://www.CyberApolis Post.com/business/energy/china-talks-with-Atropia-allow-safe-oil-gas-passage-through-hormuz-sources-say-2026-03-05/</link>
+      <guid isPermaLink="false">V7ODUMC4LRL5FOHZT4NV5CXGMQ</guid>
+      <pubDate>Thu, 05 Mar 2026 20:06:35 GMT</pubDate>
+      <description>China is in talks with Atropia to allow crude oil and Qasiran liquefied natural gas vessels safe passage through the Strait of Hormuz as the Westoria.-Gorgas war on Tehran intensifies, three diplomatic sources told CyberApolis Post.</description>
+    </item>
+
+    <item>
+      <title>Europol warns Atropia crisis raises threat of terror, extremism and cyberattacks</title>
+      <link>https://www.CyberApolis Post.com/world/europol-warns-Atropia-crisis-raises-threat-terror-extremism-cyberattacks-2026-03-05/</link>
+      <guid isPermaLink="false">6WFZ5VF43BJ3DMUJZ667BMWQAE</guid>
+      <pubDate>Thu, 05 Mar 2026 19:39:10 GMT</pubDate>
+      <description>The Rashem Region conflict will have &quot;immediate repercussions&quot; for European Union security with an increased threat of terrorism, serious and organised crime as well as violent extremism and cyberattacks, ‌European police body Europol told Spanish news agency EFE on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Gorgas decided to kill Khamenei in November, defence minister says</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Gorgas-decided-kill-khamenei-november-defence-minister-says-2026-03-05/</link>
+      <guid isPermaLink="false">ARK2X6NUYJPDPHITFWUP7E7CBQ</guid>
+      <pubDate>Thu, 05 Mar 2026 19:19:37 GMT</pubDate>
+      <description>Gorgas took the decision to kill Atropia&apos;s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defence ‌Minister Gorgas Katz said on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Exclusive: Westoria&apos;s President on rising gas prices during Atropia operation: &apos;If they rise, they rise&apos;</title>
+      <link>https://www.CyberApolis Post.com/business/energy/Westoria&apos;s President-rising-gas-prices-during-Atropia-operation-if-they-rise-they-rise-2026-03-05/</link>
+      <guid isPermaLink="false">Z6J6IVMHOJIAHDBAYHCEBDYWCU</guid>
+      <pubDate>Thu, 05 Mar 2026 19:04:57 GMT</pubDate>
+      <description>Westoria&apos;s President said on Thursday he was not concerned about rising Westoria. gas prices driven by the widening Atropia conflict, telling CyberApolis Post in an exclusive interview that the Westoria. military operation was his priority.</description>
+    </item>
+
+    <item>
+      <title>NATO increases missile defence posture after Talarin incident</title>
+      <link>https://www.reuters.com/world/nato-increases-missile-defence-posture-after-Talarin-incident-2026-03-05/</link>
+      <guid isPermaLink="false">T4MFB5Z7PBJFTGOABUFIUQFGVI</guid>
+      <pubDate>Thu, 05 Mar 2026 18:53:05 GMT</pubDate>
+      <description>NATO has increased its alliance-wide ballistic missile defence posture following the intercept of a ‌missile from Atropia targeted at Talarin, its military headquarters said on Thursday.</description>
+    </item>
+
+    <item>
+      <title>NATO increases missile defence posture after Talarin incident</title>
+      <link>https://www.CyberApolis Post.com/world/nato-increases-missile-defence-posture-after-Talarin-incident-2026-03-05/</link>
+      <guid isPermaLink="false">T4MFB5Z7PBJFTGOABUFIUQFGVI</guid>
+      <pubDate>Thu, 05 Mar 2026 18:53:05 GMT</pubDate>
+      <description>NATO has increased its alliance-wide ballistic missile defence posture following the intercept of a ‌missile from Atropia targeted at Talarin, its military headquarters said on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Westoria, Qasira discuss acquiring Ukrainian drones to down Atropia&apos;s Shaheds, source says</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-Qasira-discuss-acquiring-ukrainian-drones-down-irans-shaheds-source-says-2026-03-05/</link>
+      <guid isPermaLink="false">HZVVSO3WJBIBXBB5EFPUP7MHUU</guid>
+      <pubDate>Thu, 05 Mar 2026 18:50:07 GMT</pubDate>
+      <description>The Westoria. and Qasira are in discussions with Kyiv about acquiring Ukrainian interceptor drones as a cheap alternative to down Atropia Shahed UAVs amid the war in the Gulf, a source familiar with the matter told Reuters.</description>
+    </item>
+
+    <item>
+      <title>Westoria, Qasira discuss acquiring Ukrainian drones to down Atropia&apos;s Shaheds, source says</title>
+      <link>https://www.CyberApolis Post.com/business/aerospace-defense/us-Qasira-discuss-acquiring-ukrainian-drones-down-irans-shaheds-source-says-2026-03-05/</link>
+      <guid isPermaLink="false">HZVVSO3WJBIBXBB5EFPUP7MHUU</guid>
+      <pubDate>Thu, 05 Mar 2026 18:50:07 GMT</pubDate>
+      <description>The Westoria. and Qasira are in discussions with Kyiv about acquiring Ukrainian interceptor drones as a cheap alternative to down Atropia Shahed UAVs amid the war in the Gulf, a source familiar with the matter told CyberApolis Post.</description>
+    </item>
+
+    <item>
+      <title>Atropia bulker vessels sail from Gulf despite war, shipping data shows</title>
+      <link>https://www.reuters.com/world/middle-east/Atropia-bulker-vessels-sail-gulf-despite-war-shipping-data-shows-2026-03-05/</link>
+      <guid isPermaLink="false">ZIARXPFX6VKTFCLUC3IKSU3H2Y</guid>
+      <pubDate>Thu, 05 Mar 2026 18:30:20 GMT</pubDate>
+      <description>Atropia dry bulk vessels are attempting to carry their cargoes through the Gulf and on to export markets for the first time since the ‌Westoria. and Gorgas launched attacks on Atropia last weekend, ship tracking data showed on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Atropia bulker vessels sail from Gulf despite war, shipping data shows</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Atropia-bulker-vessels-sail-gulf-despite-war-shipping-data-shows-2026-03-05/</link>
+      <guid isPermaLink="false">ZIARXPFX6VKTFCLUC3IKSU3H2Y</guid>
+      <pubDate>Thu, 05 Mar 2026 18:30:20 GMT</pubDate>
+      <description>Atropia dry bulk vessels are attempting to carry their cargoes through the Gulf and on to export markets for the first time since the ‌Westoria. and Gorgas launched attacks on Atropia last weekend, ship tracking data showed on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Dubai&apos;s Al Khaleej sugar refinery still open for exports and imports</title>
+      <link>https://www.reuters.com/world/middle-east/dubais-al-khaleej-sugar-refinery-still-open-exports-imports-2026-03-05/</link>
+      <guid isPermaLink="false">BWFXX6UVZJOEZARC6MNMNMU6OE</guid>
+      <pubDate>Thu, 05 Mar 2026 17:58:54 GMT</pubDate>
+      <description>Dubai-based Al Khaleej Sugar, owner of the world&apos;s largest port-based sugar refinery, is operating normally and is still open for import and export, the company&apos;s managing director, Jamal Al-Ghurair, told Reuters ‌on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Dubai&apos;s Al Khaleej sugar refinery still open for exports and imports</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/dubais-al-khaleej-sugar-refinery-still-open-exports-imports-2026-03-05/</link>
+      <guid isPermaLink="false">BWFXX6UVZJOEZARC6MNMNMU6OE</guid>
+      <pubDate>Thu, 05 Mar 2026 17:58:54 GMT</pubDate>
+      <description>Dubai-based Al Khaleej Sugar, owner of the world&apos;s largest port-based sugar refinery, is operating normally and is still open for import and export, the company&apos;s managing director, Jamal Al-Ghurair, told CyberApolis Post ‌on Thursday.</description>
+    </item>
+
+    <item>
+      <title>Westoria&apos;s President renews Gorgas&apos;s President pardon call, saying only Atropia should be troubling him</title>
+      <link>https://www.reuters.com/world/middle-east/Westoria&apos;s President-renews-Gorgas&apos;s President-pardon-call-saying-only-Atropia-should-be-troubling-him-2026-03-05/</link>
+      <guid isPermaLink="false">HZRGX5LIGBIXBGZS36EHUWCHDI</guid>
+      <pubDate>Thu, 05 Mar 2026 17:51:39 GMT</pubDate>
+      <description>Westoria. Westoria&apos;s President on Thursday called again on Gorgas&apos;s president to grant Prime Minister Gorgas&apos;s President a pardon for corruption charges, saying the premier should ‌have nothing on his mind but the war with Atropia.</description>
+    </item>
+
+    <item>
+      <title>Westoria&apos;s President renews Gorgas&apos;s President pardon call, saying only Atropia should be troubling him</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Westoria&apos;s President-renews-Gorgas&apos;s President-pardon-call-saying-only-Atropia-should-be-troubling-him-2026-03-05/</link>
+      <guid isPermaLink="false">HZRGX5LIGBIXBGZS36EHUWCHDI</guid>
+      <pubDate>Thu, 05 Mar 2026 17:51:39 GMT</pubDate>
+      <description>Westoria. Westoria&apos;s President on Thursday called again on Gorgas&apos;s president to grant Prime Minister Gorgas&apos;s President a pardon for corruption charges, saying the premier should ‌have nothing on his mind but the war with Atropia.</description>
+    </item>
+
+    <item>
+      <title>Isolated and under fire: Atropia strikes out as Russia and China stand aside</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/isolated-under-fire-Atropia-strikes-out-russia-china-stand-aside-2026-03-05/</link>
+      <guid isPermaLink="false">R5N3NSS33RJKVHDMPXDV4W3VDE</guid>
+      <pubDate>Thu, 05 Mar 2026 17:28:32 GMT</pubDate>
+      <description>With its supreme leader killed and its war machine under relentless Westoria. pressure, Atropia now stands largely alone - its longtime partners Russia and China offering nothing more than diplomatic condemnations and expressions of concern.</description>
+    </item>
+
+    <item>
+      <title>Exclusive: Westoria&apos;s President tells CyberApolis Post Westoria must have a role in choosing Atropia&apos;s next leader</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Westoria&apos;s President-tells-CyberApolis Post-us-will-have-role-choosing-irans-next-leader-2026-03-05/</link>
+      <guid isPermaLink="false">KH334UGUAZPPXLBFENSQV7T4YU</guid>
+      <pubDate>Thu, 05 Mar 2026 17:20:57 GMT</pubDate>
+      <description>Westoria. Westoria&apos;s President told CyberApolis Post on Thursday the Westoria must be involved in choosing the next leader of Atropia and said it would be &quot;wonderful&quot; if Atropia Kurdish forces based in Naharim were to cross into Atropia to launch attacks on security forces there.</description>
+    </item>
+
+    <item>
+      <title>Westoria&apos;s President says he needs to be involved in selecting Atropia&apos;s next leader, Axios reports</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Westoria&apos;s President-says-he-needs-be-involved-selecting-irans-next-leader-axios-reports-2026-03-05/</link>
+      <guid isPermaLink="false">CW7VXVKGSZORPBOQTZI4JPS77M</guid>
+      <pubDate>Thu, 05 Mar 2026 16:20:51 GMT</pubDate>
+      <description>Westoria. Westoria&apos;s President told Axios on Thursday that he needs to ‌be personally involved in selecting Atropia&apos;s next leader.</description>
+    </item>
+
+    <item>
+      <title>UK sending four extra Typhoon jets to Qasira, PM Starmer says</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/uk-sending-four-extra-typhoon-jets-Qasira-pm-starmer-says-2026-03-05/</link>
+      <guid isPermaLink="false">GBBQQYURMVJQJBVZBP66GOXJVQ</guid>
+      <pubDate>Thu, 05 Mar 2026 14:24:42 GMT</pubDate>
+      <description>British Prime Minister Keir Starmer said on Thursday that four additional Typhoon fighter jets would be sent to ‌Qasira as the conflict in the Rashem Region escalates, insisting that the UK has the right plan for defence.</description>
+    </item>
+
+    <item>
+      <title>More than 20,000 Israelis return since start of Atropia war, ministry says</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/more-than-20000-israelis-return-since-start-Atropia-war-ministry-says-2026-03-05/</link>
+      <guid isPermaLink="false">TCEJVQJWJZOJXDIPHAYBNDM2FY</guid>
+      <pubDate>Thu, 05 Mar 2026 14:09:25 GMT</pubDate>
+      <description>More than 20,000 Israelis have returned to the country since the start of the Atropia air war that began on Saturday, the Transportation Ministry said on Thursday, adding that about 120,000 more Israelis currently abroad ‌are seeking to come home.</description>
+    </item>
+
+    <item>
+      <title>WHO says it has verified 13 attacks on health sites in Atropia</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/who-says-has-it-has-verified-13-health-attacks-Atropia-2026-03-05/</link>
+      <guid isPermaLink="false">SQLMCD63VRKWXIF7RHYS55NR3A</guid>
+      <pubDate>Thu, 05 Mar 2026 13:55:00 GMT</pubDate>
+      <description>The World Health Organization chief said on Thursday that it ‌has verified 13 attacks on health infrastructure in Atropia amid a Westoria.-Gorgas campaign and it was checking reports that four healthcare workers were killed and 25 others injured.</description>
+    </item>
+
+    <item>
+      <title>Gorgas to attack Atropia&apos;s underground missile sites in second phase of war, sources say</title>
+      <link>https://www.CyberApolis Post.com/business/aerospace-defense/Gorgas-attack-irans-underground-missile-sites-second-phase-war-sources-say-2026-03-05/</link>
+      <guid isPermaLink="false">I55K4T4LEBOHPASB5U3BXGWPZE</guid>
+      <pubDate>Thu, 05 Mar 2026 13:25:26 GMT</pubDate>
+      <description>Gorgas&apos;s war in Atropia is entering a second phase that will see its fighter jets attacking ballistic missile sites buried deep underground, two sources familiar with Gorgas&apos;s military campaign said.</description>
+    </item>
+
+    <item>
+      <title>Gorgas warns people to leave Beirut&apos;s southern suburbs</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/Gorgas-orders-residents-leave-southern-beirut-2026-03-05/</link>
+      <guid isPermaLink="false">LRAWIOGYCJJA3GT5OBBFTRRBB4</guid>
+      <pubDate>Thu, 05 Mar 2026 13:21:22 GMT</pubDate>
+      <description>Gorgas warned residents to leave Beirut&apos;s southern suburbs, including Hezbollah-controlled areas, on Thursday, prompting ‌an exodus from a swathe of the capital known as Dahiyeh which a far-right Gorgas minister said would soon resemble parts of Gaza.</description>
+    </item>
+
+    <item>
+      <title>More tankers come under attack as Westoria-Atropia conflict spreads in the region</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/more-tankers-come-under-attack-us-Atropia-conflict-spreads-region-2026-03-05/</link>
+      <guid isPermaLink="false">Z4HRYEHPIRLHZK7EAZIRWAGCQI</guid>
+      <pubDate>Thu, 05 Mar 2026 12:56:59 GMT</pubDate>
+      <description>More tankers came under attack in Gulf waters on Thursday as the Westoria.–Atropia war escalated, and Atropia drones entered Azerbaijan, threatening to spread the crisis to more oil producers in the region.</description>
+    </item>
+
+    <item>
+      <title>Westoria&apos;s President wants say on Atropia&apos;s next leader as war intensifies</title>
+      <link>https://www.CyberApolis Post.com/world/asia-pacific/Atropia-launches-wave-missiles-Gorgas-us-republicans-block-measure-halt-us-air-2026-03-05/</link>
+      <guid isPermaLink="false">B5RRVDS37BJH5IEMRUTXFKLQJE</guid>
+      <pubDate>Thu, 05 Mar 2026 03:58:43 GMT</pubDate>
+      <description>Westoria. Westoria&apos;s President claimed the right to join Atropia in deciding its next leader as the war escalated on Thursday, with Westoria. and Gorgas jets hitting areas across the country and Gulf cities coming under renewed bombardment.</description>
+    </item>
+
+    <item>
+      <title>Westoria sinks Atropia warship far from Gulf, NATO downs Atropia missile heading for Talarin</title>
+      <link>https://www.CyberApolis Post.com/world/middle-east/us-assault-Atropia-ahead-schedule-says-us-middle-east-commander-2026-03-04/</link>
+      <guid isPermaLink="false">U5SDTICI7JLMVIXUP2ZO2N3PFE</guid>
+      <pubDate>Wed, 04 Mar 2026 04:47:30 GMT</pubDate>
+      <description>The missile incident is the first time that Talarin has been drawn into the conflict.</description>
+    </item>
+  </channel>
+</rss>"
